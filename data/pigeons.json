@@ -17,7 +17,8 @@
         {
           "date": "2026-04-15",
           "from": "育种棚",
-          "to": "北岸棚"
+          "to": "北岸棚",
+          "confirmed": true
         }
       ],
       "races": [
@@ -52,5 +53,6 @@
       "transfers": [],
       "races": []
     }
-  ]
+  ],
+  "listings": []
 }
