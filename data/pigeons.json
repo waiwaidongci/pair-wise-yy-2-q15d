@@ -17,7 +17,8 @@
         {
           "date": "2026-04-15",
           "from": "育种棚",
-          "to": "北岸棚"
+          "to": "北岸棚",
+          "confirmed": true
         }
       ],
       "races": [
@@ -51,6 +52,58 @@
       "vaccines": [],
       "transfers": [],
       "races": []
+    }
+  ],
+  "listings": [
+    {
+      "id": "L-1001",
+      "ringNo": "CHN-2026-001",
+      "status": "open",
+      "createdAt": "2026-08-20T09:00:00.000Z",
+      "snapshot": {
+        "ringNo": "CHN-2026-001",
+        "owner": "北岸棚",
+        "pedigree": {
+          "fatherRing": "CHN-2022-188",
+          "fatherFound": true,
+          "motherRing": "CHN-2023-512",
+          "motherFound": true
+        },
+        "vaccines": [
+          {
+            "date": "2026-04-01",
+            "name": "新城疫"
+          }
+        ],
+        "transfers": [
+          {
+            "date": "2026-04-15",
+            "from": "育种棚",
+            "to": "北岸棚",
+            "confirmed": true
+          }
+        ],
+        "races": [
+          {
+            "date": "2026-06-01",
+            "event": "120公里训放",
+            "distance": 120,
+            "returnTime": "10:42",
+            "rank": 18
+          }
+        ],
+        "latestRace": {
+          "date": "2026-06-01",
+          "event": "120公里训放",
+          "distance": 120,
+          "returnTime": "10:42",
+          "rank": 18
+        }
+      },
+      "bids": [],
+      "invalidReason": "",
+      "invalidatedAt": "",
+      "withdrawnAt": ""
     }
   ]
 }
